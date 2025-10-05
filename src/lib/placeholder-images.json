@@ -1,3 +1,46 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-background",
+      "description": "Abstract view of clouds and technology network",
+      "imageUrl": "https://images.unsplash.com/photo-1690627931320-16ac56eb2588?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjbG91ZCUyMHRlY2hub2xvZ3l8ZW58MHx8fHwxNzU5NjE2OTUwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cloud technology"
+    },
+    {
+      "id": "event-card-1",
+      "description": "Speaker presenting at a tech conference",
+      "imageUrl": "https://images.unsplash.com/photo-1595020877497-86b18c283466?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjb25mZXJlbmNlJTIwcHJlc2VudGF0aW9ufGVufDB8fHx8MTc1OTYzOTYwNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "conference presentation"
+    },
+    {
+      "id": "event-card-2",
+      "description": "People collaborating in a workshop",
+      "imageUrl": "https://images.unsplash.com/photo-1649252504308-af4a8477cd2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx3b3Jrc2hvcCUyMGNvbGxhYm9yYXRpb258ZW58MHx8fHwxNzU5NTUyMzE3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "workshop collaboration"
+    },
+    {
+      "id": "event-card-3",
+      "description": "Networking event with people talking",
+      "imageUrl": "https://images.unsplash.com/photo-1491438590914-bc09fcaaf77a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxuZXR3b3JraW5nJTIwZXZlbnR8ZW58MHx8fHwxNzU5NjQ2Njg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "networking event"
+    },
+    {
+      "id": "resource-card-1",
+      "description": "Code on a computer screen",
+      "imageUrl": "https://images.unsplash.com/photo-1608742213509-815b97c30b36?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjb2RlJTIwc2NyZWVufGVufDB8fHx8MTc1OTY0MzAwMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "code screen"
+    },
+    {
+      "id": "resource-card-2",
+      "description": "An open book of documentation",
+      "imageUrl": "https://images.unsplash.com/photo-1683178861482-e592e6d3e0f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxkb2N1bWVudGF0aW9uJTIwYm9va3xlbnwwfHx8fDE3NTk2NDY2ODd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "documentation book"
+    },
+    {
+      "id": "resource-card-3",
+      "description": "Person watching an online tutorial",
+      "imageUrl": "https://images.unsplash.com/photo-1642726197512-617ce0e62262?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8b25saW5lJTIwdHV0b3JpYWx8ZW58MHx8fHwxNzU5NTI5MzUwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "online tutorial"
+    }
+  ]
 }
